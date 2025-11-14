@@ -1,0 +1,2 @@
+droidrun[google]
+python-dotenv
